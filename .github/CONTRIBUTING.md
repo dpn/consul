@@ -150,5 +150,5 @@ Consul does not attempt to track the latest version for each dependency.
 Some common changes that many PRs require such as adding config fields, are
 documented through checklists.
 
-Please check in `contributing/` for any `checklist-*.md` files that might help
+Please check in [docs/](../docs/) for any `checklist-*.md` files that might help
 with your change.
